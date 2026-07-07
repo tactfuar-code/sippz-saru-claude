@@ -1,0 +1,24 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="drop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#0066FF"/>
+      <stop offset="55%" stop-color="#0066FF"/>
+      <stop offset="100%" stop-color="#0066FF"/>
+    </linearGradient>
+    <radialGradient id="hl" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  <clipPath id="dropclip"><path d="M512,318
+           C512,318 350,512 350,608
+           A162,162 0 1 0 674,608
+           C674,512 512,318 512,318 Z"/></clipPath>
+  </defs>
+  <!-- Android adaptive maske güvenliği: sembol merkez %58'de (tepe 318 → taban 706) -->
+  <path d="M512,318
+           C512,318 350,512 350,608
+           A162,162 0 1 0 674,608
+           C674,512 512,318 512,318 Z"
+        fill="url(#drop)"/>
+  <ellipse cx="448" cy="486" rx="58" ry="82" fill="url(#hl)" transform="rotate(-18 448 486)" clip-path="url(#dropclip)"/>
+</svg>

@@ -1,0 +1,4 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1024' height='1024' viewBox='0 0 1024 1024'>
+  <path d='M512 180 C512 180, 680 350, 680 530 C680 660, 608 760, 512 760 C416 760, 344 660, 344 530 C344 350, 512 180, 512 180 Z' fill='#FF5500'/>
+  <ellipse cx='460' cy='320' rx='40' ry='70' fill='rgba(255,255,255,0.25)' transform='rotate(-20, 460, 320)'/>
+</svg>

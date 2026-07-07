@@ -1,0 +1,10 @@
+<svg width="2000" height="720" viewBox="0 0 2000 720" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="d" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#4DA3FF"/><stop offset="55%" stop-color="#0066FF"/><stop offset="100%" stop-color="#0052CC"/></linearGradient></defs><g transform="translate(30,40) scale(0.62)"><path d="M512,194 C512,194 282,468 282,600 A230,230 0 1 0 742,600 C742,468 512,194 512,194 Z" fill="url(#d)"/></g><g transform="translate(640,90) scale(1.0)">
+  <path d="M214,176 C160,140 72,150 72,208 C72,262 210,252 210,312 C210,372 116,382 64,344" fill="none" stroke="#0A1628" stroke-width="64" stroke-linecap="round"/>
+  <path d="M310,176 L310,364" fill="none" stroke="#0A1628" stroke-width="64" stroke-linecap="round"/>
+  <circle cx="310" cy="68" r="37" fill="#0A1628"/>
+  <path d="M400,176 L400,464" fill="none" stroke="#0A1628" stroke-width="64" stroke-linecap="round"/>
+  <circle cx="497" cy="270" r="98" fill="none" stroke="#0A1628" stroke-width="64"/>
+  <path d="M690,176 L690,464" fill="none" stroke="#0A1628" stroke-width="64" stroke-linecap="round"/>
+  <circle cx="787" cy="270" r="98" fill="none" stroke="#0A1628" stroke-width="64"/>
+  <path d="M975,172 L1160,172 L975,368 L1160,368" fill="none" stroke="#0066FF" stroke-width="64" stroke-linecap="square" stroke-linejoin="miter"/>
+</g></svg>
